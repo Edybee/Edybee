@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Here's a link to my portfolio: https://www.clippings.me/blessingoedward
 Here's a link to my resume https://docs.google.com/document/d/1J_VPqMLmgY6Zz2pHQ94Sia4RL30Kux8qKb_0ubZpsKE/edit?usp=drivesdk
-And here's the link to my recent technical article that got me with a great review from my client https://docs.google.com/document/d/1ZhQityndG4KMLBaeL0t3ZZjScrBtvjSOkNJ8TOdf9GY/edit?usp=drivesdk
+And here's the link to my recent technical article that got me a great review from a client https://docs.google.com/document/d/1ZhQityndG4KMLBaeL0t3ZZjScrBtvjSOkNJ8TOdf9GY/edit?usp=drivesdk
